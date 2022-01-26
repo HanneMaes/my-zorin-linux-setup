@@ -30,11 +30,10 @@ Used this for the caffeine app that install caffeine and caffeine indicator, but
 *Tweaks > Keyboard & Mouse > disable Middle Click Paste*
 
 ## Give .blend files their own icon
-1. Change the icon's name to the mimetype of the file (right click file > properties > type), in my case 'application-x-blender.svg'
-The mimetype for blender is 'application/x-blender', but for the file you need to replace the '/' with a '-' so it becomes 'application-x-blender'
+1. Change the icon's name to the mimetype of the file *right click file > properties > type* (in my case *'application-x-blender.svg'*)
+   The mimetype for blender is *'application/x-blender'*, but for the file you need to replace the '/' with a '-' so it becomes ``'application-x-blender'``
 2. Move the icon to the correct folder: 
-``$ sudo mv '/home/hanne/Documents/Linux/Zorin OS/Theming/Mimetype Icons/blend files/application-x-blender.svg' '/usr/share/icons/Zorin/scalable/mimetypes/'``
-
-If the folder does not yet exist, you may create it.
+  ``$ sudo mv '/home/hanne/Documents/Linux/Zorin OS/Theming/Mimetype Icons/blend files/application-x-blender.svg' '/usr/share/icons/Zorin/scalable/mimetypes/'``
+  If the folder does not yet exist, you may create it.
 3. Update icon caches: ``$ sudo update-icon-caches /usr/share/icons/Zorin/``
-If you don't use the default theme, replace the 'Zorin' in the commands with the folder of your theme.
+  If you don't use the default theme (or another distro), replace the 'Zorin' in the commands with the folder of your theme.
