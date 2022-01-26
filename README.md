@@ -9,3 +9,4 @@ All the tweaks I make to my Linux setup for future reference.
 - [Tweaks.md](Tweaks.md)
 - [PreformanceBoosts.md](PreformanceBoosts.md)
 - [Fixes.md](Fixes.md)
+- [MacbookSpecific.md](MacbookSpecific.md)
