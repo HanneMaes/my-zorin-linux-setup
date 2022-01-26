@@ -1,3 +1,5 @@
+# Tweaks
+
 ## Install proprietary stuff
 - Nvidia proprietary drivers: *Software & Updates > Addidtional Drivers > select 'Using NVIDIA driver metapackage from nvidia-driver-360 (propietary, tested)'*
 - Install multimedia codecs: ``$ sudo apt install ubuntu-restricted-extras``
