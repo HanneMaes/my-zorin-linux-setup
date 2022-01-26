@@ -1,5 +1,4 @@
 # Nautilus File Manager Tweaks
----
 
 ## File manager start location
 Set SUPER+E shortcut to open files at custom location: ``$ xdg-open /home/hanne/Documents``
