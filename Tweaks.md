@@ -1,33 +1,33 @@
-# Run flatpaks on startup
+## Run flatpaks on startup
 ``$ flatpak run com.synology.SynologyDrive``
 
-# Add custom trackpad gestures to the system and apps
+## Add custom trackpad gestures to the system and apps
 Touché app
 
-# Window tiling with Pop OS shell
+## Window tiling with Pop OS shell
 https://forum.zorin.com/t/how-to-install-pop-os-shell-on-zorin-16/5928
 
-# Disable 'Attach Model Dialogs' to make it able to move dialogs seperately
-Tweaks > Windows > Attach Modal Dialogs
+## Disable 'Attach Model Dialogs' to make it able to move dialogs seperately
+*Tweaks > Windows > Attach Modal Dialogs*
 
-# Fix weekdays that are displayed in Deutsch instead of Dutch or English
+## Fix weekdays that are displayed in Deutsch instead of Dutch or English
 This is a bug when you have Belgien selected in 'Regional Formats'
 
 This fix only works if you have the system language set to English: Settings > Region & Language > Formats > Denmark
 
 English (Denmark) is a suitable choice in Europe
 
-# Remove application from Gnome launcher
+## Remove application from Gnome launcher
 1. ``$ cd /usr/share/applications``
 2. Find the .desktop file of the application
 3. Add 'NoDisplay=true' to the .desktop file
 
 Used this for the caffeine app that install caffeine and caffeine indicator, but only caffeine indicator is needed to launch the app
 
-# Disable/enable middle click paste in Gnome
-Tweaks > Keyboard & Mouse > disable Middle Click Paste
+## Disable/enable middle click paste in Gnome
+*Tweaks > Keyboard & Mouse > disable Middle Click Paste*
 
-# Give .blend files their own icon
+## Give .blend files their own icon
 1. Change the icon's name to the mimetype of the file (right click file > properties > type), in my case 'application-x-blender.svg'
 The mimetype for blender is 'application/x-blender', but for the file you need to replace the '/' with a '-' so it becomes 'application-x-blender'
 2. Move the icon to the correct folder: 
