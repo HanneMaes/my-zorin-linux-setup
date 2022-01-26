@@ -7,6 +7,9 @@
 ## Run flatpaks on startup
 ``$ flatpak run com.synology.SynologyDrive``
 
+## Eliminate the default 60 second delay when logging out
+``$ gsettings set org.gnome.SessionManager logout-prompt false``
+
 ## Add custom trackpad gestures to the system and apps
 Touché app
 
