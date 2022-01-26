@@ -15,7 +15,7 @@ https://forum.zorin.com/t/how-to-install-pop-os-shell-on-zorin-16/5928
 ## Fix weekdays that are displayed in Deutsch instead of Dutch or English
 This is a bug when you have Belgien selected in 'Regional Formats'
 
-This fix only works if you have the system language set to English: Settings > Region & Language > Formats > Denmark
+This fix only works if you have the system language set to English: *Settings > Region & Language > Formats > Denmark*
 
 English (Denmark) is a suitable choice in Europe
 
