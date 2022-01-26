@@ -10,5 +10,5 @@ All the tweaks I make to my Linux setup for future reference.
 - 🏗️ [Gnome Extensions](GnomeExtensions.md)
 - 📁 [Nautilus File Manager Tweaks](Nautilus.md)
 - 🩹 [Fixes](Fixes.md)
-- 🏎️ [Preformance boosts](PreformanceBoosts.md)
-- 💻 [Macbook specific](MacbookSpecific.md)
+- 🏎️ [Preformance Boosts](PreformanceBoosts.md)
+- 💻 [Macbook Specific](MacbookSpecific.md)
