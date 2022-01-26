@@ -1,3 +1,6 @@
+# Nautilus File Manager Tweaks
+---
+
 ## File manager start location
 Set SUPER+E shortcut to open files at custom location: ``$ xdg-open /home/hanne/Documents``
 
@@ -19,6 +22,6 @@ Set SUPER+E shortcut to open files at custom location: ``$ xdg-open /home/hanne/
 ## Thumbnails for RAW images
 https://forum.zorin.com/t/raw-photo-thumbnails/13162/18
 
-# Filemanager scrips / Nautilus scripts
+## Filemanager scrips / Nautilus scripts
 1. ``$ sudo apt-get install nautilus-actions``, I think it can also be installed trough the software store as 'FileManager-actions'
 2. Open the app 'FileManager-actions'
