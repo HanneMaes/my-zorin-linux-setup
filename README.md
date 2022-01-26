@@ -13,5 +13,8 @@ All the tweaks I make to my Linux setup for future reference.
 - 🏎️ [Preformance Boosts](PreformanceBoosts.md)
 - 💻 [Macbook Specific](MacbookSpecific.md)
 
+# Dot Files
+- [.bashrc](.bashrc)
+
 # Theming
 - 🎨 [How to install mouse & icon themes](HowToInstallMouseAndIconThemes.md)
