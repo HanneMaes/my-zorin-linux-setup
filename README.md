@@ -7,11 +7,14 @@ All the tweaks I make to my Linux setup for future reference.
 
 # My Tweaks
 - 🛠️ [Tweaks](Tweaks.md)
-- 🏗️ [Gnome Extensions](GnomeExtensions.md)
 - 📁 [Nautilus File Manager Tweaks](Nautilus.md)
 - 🩹 [Fixes](Fixes.md)
 - 🏎️ [Preformance Boosts](PreformanceBoosts.md)
 - 💻 [Macbook Specific](MacbookSpecific.md)
+
+# Gnome
+- 👣 [Gnome Extensions](GnomeExtensions.md)
+- 👣 [Custom Launcher Entries](GnomeCustomLauncherEntries.md)
 
 # Dot Files
 - 🗒️ [.bashrc](.bashrc)
