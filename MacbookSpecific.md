@@ -1,0 +1,1 @@
+- Toggle fn mode (F buttons or media keys): fn+esc
