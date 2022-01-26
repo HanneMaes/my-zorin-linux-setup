@@ -6,7 +6,7 @@ All the tweaks I make to my Linux setup for future reference.
 - Macbook Pro early 2014
 
 # My Tweaks
-- [Tweaks.md](Tweaks.md)
-- [PreformanceBoosts.md](PreformanceBoosts.md)
-- [Fixes.md](Fixes.md)
-- [MacbookSpecific.md](MacbookSpecific.md)
+- [Tweaks](Tweaks.md)
+- [PreformanceBoosts](PreformanceBoosts.md)
+- [Fixes](Fixes.md)
+- [MacbookSpecific](MacbookSpecific.md)
