@@ -36,27 +36,3 @@ The mimetype for blender is 'application/x-blender', but for the file you need t
 If the folder does not yet exist, you may create it.
 3. Update icon caches: ``$ sudo update-icon-caches /usr/share/icons/Zorin/``
 If you don't use the default theme, replace the 'Zorin' in the commands with the folder of your theme.
-
-####################
-# Gnome extensions #
-####################
-
-# Install
-Firefox is needed because my Brave browser is a snap.
-1. Install 'Gnome Tweaks' from software store
-2. Install 'Gnome shell integratie' firefox add-on
-3. Install 'chrome-gnome-shell': $ sudo apt install chrome-gnome-shell
-
-# Install extensions
-Firefox is needed because my Brave browser is a snap.
-1. Surf to: https://extensions.gnome.org/
-2. Search extension and click the 'ON' button.
-3. Check is the extension is enables in Tweaks > Extensions or on https://extensions.gnome.org/
-
-# My extensions
-- Search google: Google Search Provider
-- DuckDuckGo: DuckDuckGo Search Provider
-- Pop shell
-- Jiggle: highlights the cursor position when the mouse is moved rapidly
-- GNOME Fuzzy Search
-
