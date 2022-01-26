@@ -8,7 +8,7 @@
 2. Search extension and click the 'ON' button.
 3. Check is the extension is enables in *Tweaks > Extensions* or https://extensions.gnome.org/
 
-# My extensions
+## My extensions
 - Search google: Google Search Provider
 - DuckDuckGo: DuckDuckGo Search Provider
 - Pop shell (manually installed)
