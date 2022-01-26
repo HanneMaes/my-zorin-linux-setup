@@ -22,7 +22,7 @@ https://github.com/muharemovic/MouseWheel
 ## Fix invisible systrem tray icons
 ``$ sudo apt install --reinstall gnome-shell-extension-zorin-appindicator``
 
-# GUI controller for second screen brightness
+## GUI controller for second screen brightness
 Because Wacom doesn't have hardware buttons for brightness controll
 1. ``$ sudo add-apt-repository ppa:apandada1/brightness-controller``
 2. ``$ sudo apt update``
