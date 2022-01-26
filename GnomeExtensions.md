@@ -1,3 +1,5 @@
+# Gnome Extensions
+
 ## Install
 1. Install 'Gnome Tweaks' from software store
 2. Install 'Gnome shell integratie' browser add-on
