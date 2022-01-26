@@ -14,7 +14,7 @@ All the tweaks I make to my Linux setup for future reference.
 - 💻 [Macbook Specific](MacbookSpecific.md)
 
 # Dot Files
-- [.bashrc](.bashrc)
+- 🗒️ [.bashrc](.bashrc)
 
 # Theming
 - 🎨 [How to install mouse & icon themes](HowToInstallMouseAndIconThemes.md)
