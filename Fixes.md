@@ -1,10 +1,13 @@
+# Install proprietary stuff
 - Nvidia proprietary drivers: Software & Updates > Addidtional Drivers > select 'Using NVIDIA driver metapackage from nvidia-driver-360 (propietary, tested)'
-- Install multimedia codecs: $ sudo apt install ubuntu-restricted-extras
-- Eliminate the default 60 second delay when logging out: $ gsettings set org.gnome.SessionManager logout-prompt false
+- Install multimedia codecs: ``$ sudo apt install ubuntu-restricted-extras``
+
+# Eliminate the default 60 second delay when logging out
+``$ gsettings set org.gnome.SessionManager logout-prompt false``
 
 # Keyboard
-- Fix numpad not working: $ udo apt install numlockx (guide to numlockx: http://manpages.ubuntu.com/manpages/trusty/man1/numlockx.1.html)
-- Toggle fn mode (F buttons or media keys): fn+esc
+- Fix numpad not working: ``$ udo apt install numlockx (guide to numlockx: http://manpages.ubuntu.com/manpages/trusty/man1/numlockx.1.html)``
+
 
 # Show login screen on second monitor
 Even when an external monitor is set as the default monitor, it only becomes the default one after boot.
