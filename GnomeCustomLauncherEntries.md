@@ -3,7 +3,7 @@
 ## Create custom entry
 1. Create a *.desktop* file
 2. Open and write the following:
-``
+```
 [Desktop Entry]
 Encoding=UTF-8
 Name=Name that will show up in Gnome Launcher
@@ -11,7 +11,7 @@ Exec=bash -c "xdg-open https://zorin.com/os/"
 Icon=/home/hanne/Pictures/zorin.png
 Type=Application
 Terminal=false
-``
+```
 3. Make executable: *right click file > Properties > Permissions > check Execute*
 4. Allow launching: *right click > Allow launching*
 5. Move the file to ``~/.local/share/applications`` (create these folders if they don't exist)
