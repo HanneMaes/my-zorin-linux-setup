@@ -7,6 +7,7 @@ All the tweaks I make to my Linux setup for future reference.
 
 # My Tweaks
 - [Tweaks](Tweaks.md)
+- [Nautilus File Manager Tweaks](Nautilus.md)
 - [Fixes](Fixes.md)
 - [Preformance boosts](PreformanceBoosts.md)
 - [Macbook specific](MacbookSpecific.md)
