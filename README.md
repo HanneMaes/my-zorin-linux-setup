@@ -7,6 +7,6 @@ All the tweaks I make to my Linux setup for future reference.
 
 # My Tweaks
 - [Tweaks](Tweaks.md)
-- [PreformanceBoosts](PreformanceBoosts.md)
+- [Preformance boosts](PreformanceBoosts.md)
 - [Fixes](Fixes.md)
-- [MacbookSpecific](MacbookSpecific.md)
+- [Macbook specific](MacbookSpecific.md)
