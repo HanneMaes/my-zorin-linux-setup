@@ -1,3 +1,5 @@
+# Tweaks
+
 ## Run flatpaks on startup
 ``$ flatpak run com.synology.SynologyDrive``
 
