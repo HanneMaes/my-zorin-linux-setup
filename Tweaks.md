@@ -1,4 +1,4 @@
-# Run Synology Drive (and other flatpak apps) on startup
+# Run flatpaks on startup
 ``$ flatpak run com.synology.SynologyDrive``
 
 # Add custom trackpad gestures to the system and apps
