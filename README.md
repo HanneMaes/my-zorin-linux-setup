@@ -6,9 +6,9 @@ All the tweaks I make to my Linux setup for future reference.
 - Macbook Pro early 2014
 
 # My Tweaks
-- [Tweaks](Tweaks.md)
-- [Gnome Extensions](GnomeExtensions.md)
-- [Nautilus File Manager Tweaks](Nautilus.md)
-- [Fixes](Fixes.md)
-- [Preformance boosts](PreformanceBoosts.md)
-- [Macbook specific](MacbookSpecific.md)
+- 🛠️ [Tweaks](Tweaks.md)
+- 🏗️ [Gnome Extensions](GnomeExtensions.md)
+- 📁 [Nautilus File Manager Tweaks](Nautilus.md)
+- 🩹 [Fixes](Fixes.md)
+- 🏎️ [Preformance boosts](PreformanceBoosts.md)
+- 💻 [Macbook specific](MacbookSpecific.md)
