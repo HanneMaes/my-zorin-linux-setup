@@ -12,3 +12,6 @@ All the tweaks I make to my Linux setup for future reference.
 - 🩹 [Fixes](Fixes.md)
 - 🏎️ [Preformance Boosts](PreformanceBoosts.md)
 - 💻 [Macbook Specific](MacbookSpecific.md)
+
+# Theming
+- 🎨 [How to install mouse & icon themes](HowToInstallThemes.md)
