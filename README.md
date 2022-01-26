@@ -6,6 +6,5 @@ All the tweaks I make to my Linux setup for future reference
 - Macbook Pro early 2014
 
 # My Tweaks
-My tweaks: [a link](Tweaks.md)
-
-My Preformance Boosts: [a link](Preformance Boosts.md)
+[Tweaks.md](Tweaks.md)
+[Preformance Boosts](Preformance Boosts.md)
