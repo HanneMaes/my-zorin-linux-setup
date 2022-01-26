@@ -21,8 +21,8 @@ English (Denmark) is a suitable choice in Europe
 
 ## Remove application from Gnome launcher
 1. ``$ cd /usr/share/applications``
-2. Find the .desktop file of the application
-3. Add 'NoDisplay=true' to the .desktop file
+2. Find the *.desktop* file of the application
+3. Add ``'NoDisplay=true'`` to the *.desktop* file
 
 Used this for the caffeine app that install caffeine and caffeine indicator, but only caffeine indicator is needed to launch the app
 
