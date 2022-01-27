@@ -8,7 +8,7 @@ All the tweaks I make to my Linux setup for future reference.
 ![Zorin OS](mockup.jpg)
 
 # My Tweaks
-- 🛠️ [Tweaks](Tweaks.md)
+- ⚙️ [Tweaks](Tweaks.md)
 - 📁 [Nautilus File Manager Tweaks](Nautilus.md)
 - 🩹 [Fixes](Fixes.md)
 - 🏎️ [Preformance Boosts](PreformanceBoosts.md)
@@ -22,7 +22,7 @@ All the tweaks I make to my Linux setup for future reference.
 - 🗒️ [.bashrc](.bashrc)
 
 # Apps
-- ⚙️ [Apps](Apps.md)
+- 🛠️ [Apps](Apps.md)
 
 # Theming
 - 🎨 [How to install mouse & icon themes](HowToInstallMouseAndIconThemes.md)
