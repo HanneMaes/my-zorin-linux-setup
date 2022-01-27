@@ -22,7 +22,7 @@ All the tweaks I make to my Linux setup for future reference.
 - 🗒️ [.bashrc](.bashrc)
 
 # Apps
--⚙️ [Apps](Apps.md)
+- ⚙️ [Apps](Apps.md)
 
 # Theming
 - 🎨 [How to install mouse & icon themes](HowToInstallMouseAndIconThemes.md)
