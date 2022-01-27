@@ -5,3 +5,4 @@
 
 ## Design
 - Handbrake: video compression
+- Image Optimizer: image compression
