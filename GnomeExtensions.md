@@ -20,5 +20,4 @@
 
 For my vanilla Gnome setup
 - Hide Top Bar: intellihide top bar
-- Smart transparant top bar: give the top bar transparancy
-- Activities Icons - Separated buttons: adds a button to show applications menu
+- Top Bat Visuals - transparent and blur
