@@ -20,4 +20,3 @@
 
 For my vanilla Gnome setup
 - Hide Top Bar: intellihide top bar
-- Top Bat Visuals - transparent and blur
