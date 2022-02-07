@@ -17,6 +17,7 @@
 - Jiggle: highlights the cursor position when the mouse is moved rapidly
 - GNOME Fuzzy Search
 - Day Night Wallpaper
+- Custom Hot Corners
 
-For my vanilla Gnome setup
-- Hide Top Bar: intellihide top bar
+### For my vanilla Gnome setup
+- Hide Top Bar
