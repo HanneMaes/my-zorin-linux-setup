@@ -1,3 +1,6 @@
+# neofetch system info
+neofetch
+
 # greeting
 echo ""
 echo "Hi Hanne"
