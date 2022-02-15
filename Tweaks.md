@@ -40,3 +40,8 @@ English (Denmark) is a suitable choice in Europe
    If the folder does not yet exist, you may create it
 4. Update icon caches: ``$ sudo update-icon-caches /usr/share/icons/Zorin/``<br>
    If you don't use the default theme (or another distro), replace the 'Zorin' in the commands with the folder of your theme
+   
+ ## Neofetch system info
+ 1. $ sudo apt-get update
+ 2. $ sudo apt-get install neofetch
+ 3. $ neofetch
