@@ -21,4 +21,4 @@
 
 ### For my vanilla Gnome setup
 - Hide Top Bar
-- Smart transparent topbar
+- Dash to Dock
