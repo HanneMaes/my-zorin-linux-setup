@@ -7,6 +7,7 @@
   - Gnome shell theme: *gnome shell/gnome-shell.css*
 3. Adjust CSS:
   - Top bar text: ```#panel .panel-button {```
+  - Top bar popups: ```.popup-menu```
   - App overview icon text: ```.app-well-app .overview-icon, .grid-search-result .overview-icon {```
   - Dash app overview icon: ```.show-apps .overview-icon {```
 4. Adjust icons: *gnome shell/assets/*
