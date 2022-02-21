@@ -26,3 +26,4 @@ All the tweaks I make to my Linux setup for future reference.
 
 # Theming
 - 🎨 [How to install mouse & icon themes](HowToInstallMouseAndIconThemes.md)
+- ⌨️ [Change a theme's CSS](ChangeAThemesCSS.md)
