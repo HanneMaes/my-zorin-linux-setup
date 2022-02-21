@@ -7,4 +7,5 @@
   - Gnome shell theme: *gnome shell/gnome-shell.css*
 3. Adjust CSS:
   - Top bar: ```#panel .panel-button {```
-4. Reapply theme by logging out and in or switching the theme to another one and switching back
+4. Adjust icons: *gnome shell/assets/*
+6. Reapply theme by logging out and in or switching the theme to another one and switching back
