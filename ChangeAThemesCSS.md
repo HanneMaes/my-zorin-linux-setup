@@ -1,8 +1,8 @@
 # Change a theme's CSS
 
 1. Open the themes folder:
-  - Default theme: ```xdg-open /usr/share/themes```
-  - Custom theme: ```xdg-open $HOME/.themes/```
+  - Default theme: ```sudo xdg-open /usr/share/themes```
+  - Custom theme: ```sudo xdg-open $HOME/.themes/```
 2. Open the CSS file:
   - Gnome shell theme: *gnome shell/gnome-shell.css*
 3. Adjust CSS:
