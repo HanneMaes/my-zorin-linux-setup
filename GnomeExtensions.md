@@ -18,6 +18,7 @@
 - GNOME Fuzzy Search
 - Day Night Wallpaper
 - Custom Hot Corners (set Pressure Treshold to 300)
+- Caffeine: disable the screensaver and auto suspend when enabled
 
 ### For my vanilla Gnome setup
 - Hide Top Bar
