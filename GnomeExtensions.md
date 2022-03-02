@@ -21,5 +21,5 @@
 - Caffeine: disable the screensaver and auto suspend when enabled
 
 ### For my vanilla Gnome setup
-- Hide Top Bar
+- Hide Top Bar (set Pressure barrier's threshold to 300)
 - Dash to Dock
