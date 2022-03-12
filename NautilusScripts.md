@@ -9,7 +9,7 @@ https://help.ubuntu.com/community/NautilusScriptsHowto
 # My Scripts
 
 ## Open with Krita
-``
+```
 !/bin/bash
 flatpak run org.kde.krita ${NAUTILUS_SCRIPT_SELECTED_URIS}
-``
+```
