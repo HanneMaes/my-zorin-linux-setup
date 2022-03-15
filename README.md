@@ -19,9 +19,6 @@ All the tweaks I make to my Linux setup for future reference.
 - 📁 [Nautilus File Manager Tweaks](Nautilus.md)
 - 📁 [Nautilus Scripts](NautilusScripts.md)
 
-# Dot Files
-- 🗒️ [.bashrc](.bashrc)
-
 # Apps
 - 🛠️ [Apps](Apps.md)
 
