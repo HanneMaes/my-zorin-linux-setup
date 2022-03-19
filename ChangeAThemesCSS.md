@@ -8,7 +8,7 @@
   - Gnome shell theme: *gnome shell/gnome-shell.css*
  
 ## 3. Adjust CSS
-  ```Zorin Blue: <span color="#15a6f0">#15a6f0</span>```
+  Zorin Blue: <span color="#15a6f0">```#15a6f0```</span>
   - Top bar text: ```#panel .panel-button {```
   - Top bar popups: ```.popup-menu```
   - App overview icon text: ```.app-well-app .overview-icon, .grid-search-result .overview-icon {```
