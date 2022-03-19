@@ -13,6 +13,7 @@
   - App overview icon text: ```.app-well-app .overview-icon, .grid-search-result .overview-icon {```
   - App overview search: ```.search-entry```
   - App overview search text: ```.search-entry:focus```
+  - App overview search result folder: ```.app-well-app:hover .overview-icon, .app-well-app:selected .overview-icon, .grid-search-result:hover .overview-icon, .grid-search-result:selected .overview-icon {```
   - App overview app folder: ```.app-well-app.app-folder```
   - Dash app overview icon: ```.show-apps .overview-icon {```
   - Dash active app dot: ```#dash .app-well-app-running-dot, #dashtodockContainer .app-well-app-running-dot, #dashtopanelScrollview .app-well-app-running-dot, #zorintaskbarScrollview .app-well-app-running-dot {```
