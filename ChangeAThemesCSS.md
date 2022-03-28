@@ -21,7 +21,7 @@
   - Dash active app dot: ```#dash .app-well-app-running-dot, #dashtodockContainer .app-well-app-running-dot, #dashtopanelScrollview .app-well-app-running-dot, #zorintaskbarScrollview .app-well-app-running-dot```
 
 ## 4. Adjust icons
-  - *gnome shell/assets/*
+  - Theme icons are located in ```gnome shell/assets/```
 
 ## 6. Reapply theme
 - Log out and in or switching the theme to another one and switching back
