@@ -3,5 +3,5 @@
 2. Go to ``HOME`` folder and open or create ``.icons/``
 3. Extract *.tar.gz* file and move the extracted folder to ``.icons/``
 4. Close and reopen 'Gnome Tweaks'
-5. Cursor: *Appearance > Cursor > choose new theme*
+5. Cursor: *Appearance > Cursor > choose new theme*<br>
    Icons: *Appearance > Icons > choose new theme*
