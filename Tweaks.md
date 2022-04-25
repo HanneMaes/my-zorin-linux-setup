@@ -49,9 +49,8 @@ English (Denmark) is a suitable choice in Europe
 ## Swaps keys on the keyboard
 https://askubuntu.com/questions/254424/how-can-i-change-what-keys-on-my-keyboard-do-how-can-i-create-custom-keyboard/257497#257497
 
-Get keycodes and keysyms
-1. ``$ xev``
-2. Press a key, write down the keycode and keysym, close the window
-
-Change the keyboard layout
-1. ``$  xmodmap -e "keycode 94 = 0x40" # 94 is the keycode and 0x40 is het keymap``
+1. Get keycodes and keysyms: ``$ xev``, press a key, write down the keycode and keysym, close the window
+2. Change the keyboard layout: ``$  xmodmap -e "keycode <keycode> = <keysym for character> <keysym for shoft+character>" # xmodmap -e "keycode 94 = 0x40 0x23"``
+3. Making changes persistent across reboots: 
+   - If it doesn't exist, create a file in your home folder: $ touch ~/.xinitrc
+   - Save custom keymap: $ xmodmap ~/.xinitrc
