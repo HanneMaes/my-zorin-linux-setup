@@ -47,8 +47,10 @@ English (Denmark) is a suitable choice in Europe
  3. ``$ neofetch``
 
 ## Swaps keys on the keyboard
+
 Get keycodes and keysyms
 1. ``$ xev``
 2. Press a key, write down the keycode and keysym, close the window
+
 Change the keyboard layout
 1. ``$  xmodmap -e "keycode 94 = 0x40" # 94 is the keycode and 0x40 is het keymap``
