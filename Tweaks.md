@@ -51,4 +51,4 @@ https://askubuntu.com/questions/254424/how-can-i-change-what-keys-on-my-keyboard
 
 1. Get keycodes and keysyms: ``$ xev``, press a key, write down the keycode and keysym, close the window
 2. Change the keyboard layout: ``$  xmodmap -e "keycode <keycode> = <keysym for character> <keysym for shoft+character>" # xmodmap -e "keycode 94 = 0x40 0x23"``
-3. Add to startup applications to make the changes persistent across reboots: 
+3. Add to startup applications to make the changes persistent across reboots
