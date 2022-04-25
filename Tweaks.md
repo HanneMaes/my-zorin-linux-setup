@@ -47,6 +47,7 @@ English (Denmark) is a suitable choice in Europe
  3. ``$ neofetch``
 
 ## Swaps keys on the keyboard
+https://askubuntu.com/questions/254424/how-can-i-change-what-keys-on-my-keyboard-do-how-can-i-create-custom-keyboard/257497#257497
 
 Get keycodes and keysyms
 1. ``$ xev``
