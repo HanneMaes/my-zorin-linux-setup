@@ -18,6 +18,8 @@
 - Google Search Provider
 - GNOME Fuzzy Search
 - Pop shell (manually installed)
+- Blur my Shell
+- Transparent Top Bar (Adjustable transparency): works well with Blur my Shell
 - Day Night Wallpaper
 - Custom Hot Corners (set Pressure Treshold to 300)
 - Caffeine: disable the screensaver and auto suspend when enabled
