@@ -9,8 +9,9 @@
  
 ## 3. Adjust CSS
   Zorin Blue: ```#15a6f0```
-  - Top bar text: ```#panel .panel-button```
-  - Top bar popups: ```.popup-menu```
+  - Top panel background: ```#panel```
+  - Top panel text: ```#panel .panel-button```
+  - Top panel popups: ```.popup-menu```
   - App overview icon text: ```.app-well-app .overview-icon, .grid-search-result .overview-icon```
   - App overview search: ```.search-entry```
   - App overview search text: ```.search-entry:focus```
