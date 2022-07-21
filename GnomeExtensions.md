@@ -25,3 +25,6 @@
 - Hide Top Bar (set Pressure barrier's threshold to 300)
 - Activities Icons - Seperated buttons: Adds an applications button to the top panel
 - Argos: bash script as extension (if it doesn't work properly download the version at https://github.com/rammie/argos/tree/gnome-3.36, don't uninstall the offical extensions and override the files to `~/.local/share/gnome-shell/extensions/argos@pew.worldwidemann.com`
+- App Grid Tweaks
+- Colored AppMenu Icon
+- Remove App Menu
