@@ -24,3 +24,6 @@ https://forum.zorin.com/t/raw-photo-thumbnails/13162/18
 ## Filemanager scrips / Nautilus scripts
 1. ``$ sudo apt-get install nautilus-actions``, I think it can also be installed trough the software store as 'FileManager-actions'
 2. Open the app 'FileManager-actions'
+
+## Change right-click new document menu
+- Add/remove files in '/home/hanne/Templates'
