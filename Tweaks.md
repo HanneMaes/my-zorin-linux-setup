@@ -53,6 +53,11 @@ https://askubuntu.com/questions/254424/how-can-i-change-what-keys-on-my-keyboard
 2. Change the keyboard layout: ``$  xmodmap -e "keycode <keycode> = <keysym for character> <keysym for shoft+character>" # xmodmap -e "keycode 94 = 0x40 0x23"``
 3. To make the changes persistant across reboots add the commands to startup applications as 2 seperate commands or with: ``$ bash -c "<command1> && <command2>"``
 
-## Enable webp support for Nautilus and thumbnails
+## Enable webp support
+**Nautilus thumbnails and Images (eye of gnome) support**
 1. ``$ sudo add-apt-repository ppa:helkaluin/webp-pixbuf-loader``
 2. ``$ sudo apt install webp-pixbuf-loader``
+
+**Convert webp to png**
+1. ``$ sudo apt install webp``
+2. ``$ dwebp file.webp -o file.png``
