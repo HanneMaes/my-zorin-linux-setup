@@ -2,6 +2,7 @@
 1. ``$ xdg-open ~/.local/share/nautilus/scripts/``
 2. Create a script file (Bash, Python, ...), file name doesn't have to include `.sh` or `.py` for a cleaner look
 3. Make executable
+4. Change icon to make the menu more readable/beautiful
 
 ## Variables
 - ``$NAUTILUS_SCRIPT_SELECTED_FILE_PATHS``: full path of selected file(s)
