@@ -26,4 +26,4 @@ https://forum.zorin.com/t/raw-photo-thumbnails/13162/18
 2. Open the app 'FileManager-actions'
 
 ## Change right-click new document menu
-- Add/remove files in '/home/hanne/Templates'
+- Add/remove files in ``/home/hanne/Templates``
