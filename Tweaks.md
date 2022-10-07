@@ -14,7 +14,7 @@
 Touché app
 
 ## Window tiling with Pop OS shell
-https://forum.zorin.com/t/how-to-install-pop-os-shell-on-zorin-16/5928
+[https://forum.zorin.com/t/how-to-install-pop-os-shell-on-zorin-16/5928](https://support.system76.com/articles/pop-shell/)
 
 ## Disable 'Attach Model Dialogs' to make it able to move dialogs seperately
 *Tweaks > Windows > Attach Modal Dialogs*
