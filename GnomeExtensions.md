@@ -4,11 +4,6 @@
 1. Install 'Gnome Tweaks'
 2. Install 'Extension Manager'
 
-## Install extensions
-1. Surf to: https://extensions.gnome.org/ or click the add-on's icon
-2. Search extension and click the 'ON' button.
-3. Check is the extension is enables in *Tweaks > Extensions* or https://extensions.gnome.org/
-
 ## Enable/disable extentions trough the command line
 1. Get the extention's UUID: ``$ gnome-extensions list``
 2. Enable/disable: ``$ gnome-extensions enable UUID``
