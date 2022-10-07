@@ -1,9 +1,8 @@
 # Gnome Extensions
 
 ## Install
-1. Install 'Gnome Tweaks' from software store
-2. Install 'Gnome shell integratie' browser add-on
-3. Install 'chrome-gnome-shell': ``$ sudo apt install chrome-gnome-shell``
+1. Install 'Gnome Tweaks'
+2. Install 'Extension Manager'
 
 ## Install extensions
 1. Surf to: https://extensions.gnome.org/ or click the add-on's icon
