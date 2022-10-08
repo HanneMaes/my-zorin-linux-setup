@@ -16,9 +16,15 @@ Set SUPER+E shortcut to open files at custom location: ``$ xdg-open /home/hanne/
 3. Restart Nautilus: ``$ nautilus -q``
 
 ## Change Nautilus sidebar
+
+**Debiant/Ubuntu**
 1. Comment lines out with # or add lines<br>
    ``$ sudo gedit ~/.config/user-dirs.dirs`` this edits the sidebar only for the current session<br>
    ``$ sudo gedit /etc/xdg/user-dirs.defaults`` because on boot ``~/.config/user-dirs.dirs`` gets rebuild from ``/etc/xdg/user-dirs.defaults``
+2. Restart Nautilus: ``$ nautilus -q``
+
+**Fedora**
+1. Comment lines out with # or add lines in ``~/.config/user-dirs.dirs`` and ``$ sudo gedit /etc/xdg/user-dirs.defaults``
 2. Restart Nautilus: ``$ nautilus -q``
 
 ## Add online accounts (like Google Drive) to the Nautilus sidebar
