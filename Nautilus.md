@@ -18,7 +18,7 @@ Set SUPER+E shortcut to open files at custom location: ``$ xdg-open /home/hanne/
 ## Change Nautilus sidebar
 
 **Fedora**
-1. Comment lines out with # or add lines in ``~/.config/user-dirs.dirs`` and ``$ sudo gedit /etc/xdg/user-dirs.defaults``
+1. Comment lines out with # or add lines in ``~/.config/user-dirs.dirs`` and ``/etc/xdg/user-dirs.defaults``
 2. Restart Nautilus: ``$ nautilus -q``
 
 **Debiant/Ubuntu**
