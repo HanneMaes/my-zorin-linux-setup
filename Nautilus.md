@@ -4,8 +4,15 @@
 Set SUPER+E shortcut to open files at custom location: ``$ xdg-open /home/hanne/Documents``
 
 ## Resize & rotate images straight from Nautilus file manager
+
+**Debiant/Ubuntu**
 1. Install imagemagick: ``$ sudo apt install imagemagick``
 2. Install Nautilus plugin: ``$ sudo apt install nautilus-image-converter``
+3. Restart Nautilus: ``$ nautilus -q``
+
+**Fedora**
+1. Install imagemagick: ``$ sudo dnf install ImageMagick``
+2. Install Nautilus plugin: ``$ sudo yum install nautilus-image-converter``
 3. Restart Nautilus: ``$ nautilus -q``
 
 ## Change Nautilus sidebar
