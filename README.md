@@ -19,9 +19,6 @@ All the tweaks I make to my Linux setup for future reference.
 - 📁 [Nautilus File Manager Tweaks](Nautilus.md)
 - 📁 [Nautilus Scripts](NautilusScripts.md)
 
-# Apps
-- 🛠️ [Apps](Apps.md)
-
 # Theming
 - 🎨 [How to install mouse & icon themes](HowToInstallMouseAndIconThemes.md)
 - ⌨️ [Change a theme's CSS](ChangeAThemesCSS.md)
