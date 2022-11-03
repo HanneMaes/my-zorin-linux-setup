@@ -9,6 +9,7 @@ All the tweaks I make to my Linux setup for future reference.
 
 # My Tweaks
 - ⚙️ [Tweaks](Tweaks.md)
+- 🖱️ [Hardware Tweaks](HardwareTweaks.md)
 - 🩹 [Fixes](Fixes.md)
 - 🏎️ [Preformance Boosts](PreformanceBoosts.md)
 - 💻 [Macbook Specific](MacbookSpecific.md)
