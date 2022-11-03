@@ -8,13 +8,13 @@
 3. Create xbindkeys config file: `~/.xbindkeysrc`
 4. Edit config file:
 
-*Key combination, where 8 is the buttoncode:*
+**Key combination, where 8 is the buttoncode:**
 ```
 "xdotool key 'Control_L+Alt_L+Down'"
        b:8
 ```	 
 
-*Bash command, where 8 is the buttoncode and the command has to be between "...":*
+**Bash command, where 8 is the buttoncode and the command has to be between "...":**
 ```
 "xdotool key 'XF86AudioRaiseVolume'"
        b:8
