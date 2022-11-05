@@ -19,8 +19,10 @@ To make it the default one before boot execute these commands:<br>
 ## Make scroll speed adjustable
 https://github.com/muharemovic/MouseWheel
 
-## Fix invisible systrem tray icons
-``$ sudo apt install --reinstall gnome-shell-extension-zorin-appindicator``
+## Fix missing systrem tray icons
+Both options work
+- ``$ sudo apt install --reinstall gnome-shell-extension-zorin-appindicator``
+- ``$ sudo apt-get remove indicator-$``
 
 ## GUI controller for second screen brightness
 Because Wacom doesn't have hardware buttons for brightness controll
