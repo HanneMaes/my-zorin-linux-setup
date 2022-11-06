@@ -17,6 +17,7 @@ All the tweaks I make to my Linux setup for future reference.
 # Gnome
 - 👣 [Gnome Extensions](GnomeExtensions.md)
 - 👣 [Custom Launcher Entries](GnomeCustomLauncherEntries.md)
+- 👣 [Control Gnome from the Terminal](GnomeTerminalCommands.md)
 - 📁 [Nautilus File Manager Tweaks](Nautilus.md)
 - 📁 [Nautilus Scripts](NautilusScripts.md)
 
