@@ -7,4 +7,4 @@
 
 **My systems command to achieve this**
 
-`sudo cp org.keepassxc.KeePassXC-monochrome-dark.svg /var/lib/flatpak/exports/share/icons/hicolor/scalable/apps/org.keepassxc.KeePassXC-monochrome-dark.svg && p org.keepassxc.KeePassXC-monochrome-dark-locked.svg /var/lib/flatpak/exports/share/icons/hicolor/scalable/apps/org.keepassxc.KeePassXC-monochrome-dark-locked.svg`
+`sudo cp org.keepassxc.KeePassXC-monochrome-dark.svg /var/lib/flatpak/exports/share/icons/hicolor/scalable/apps/org.keepassxc.KeePassXC-monochrome-dark.svg && sudo cp org.keepassxc.KeePassXC-monochrome-dark-locked.svg /var/lib/flatpak/exports/share/icons/hicolor/scalable/apps/org.keepassxc.KeePassXC-monochrome-dark-locked.svg`
