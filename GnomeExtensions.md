@@ -22,3 +22,4 @@
 - App Grid Tweaks
 - Colored AppMenu Icon
 - Remove App Menu
+- Clipboard Indicator
