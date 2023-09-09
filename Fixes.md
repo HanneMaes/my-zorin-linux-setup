@@ -30,8 +30,3 @@ Because Wacom doesn't have hardware buttons for brightness controll
 2. ``$ sudo apt update``
 3. ``$ sudo apt install brightness-controller``
 4. Search launcher for 'Brightness Controller'
-
-## Firefox get dark/light mode wrong
-1. type ``about:config`` in the URL bar
-2. Search for ``layout.css.prefers-color-scheme.content-override``
-3. Dark (0), light (1), system (2) or browser (3) 
