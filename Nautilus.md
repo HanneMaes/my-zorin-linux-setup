@@ -3,6 +3,10 @@
 ## File manager start location
 Set SUPER+E shortcut to open files at custom location: ``$ xdg-open /home/hanne/Documents``
 
+## GIP support
+1. ``$ sudo add-apt-repository universe``
+2. ``$ sudo apt install rabbitvcs-nautilus``
+
 ## Resize & rotate images straight from Nautilus file manager
 
 **Fedora**
