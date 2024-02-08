@@ -1,4 +1,4 @@
-# My Linux Setup
+# My Zorin Linux Setup
 All the tweaks I make to my Linux setup for future reference.
 
 # My System 
